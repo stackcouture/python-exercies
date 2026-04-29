@@ -1,0 +1,2 @@
+InstanceId,InstanceType,State,PrivateIP,PublicIP,AZ
+i-094ae9d064eff6d32,t2.nano,stopped,172.31.11.194,,ap-south-1b

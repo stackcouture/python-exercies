@@ -1,0 +1,12 @@
+[
+    {
+        "InstanceId": "i-094ae9d064eff6d32",
+        "Name": "demo-instances",
+        "VPC": "vpc-0e2cb30faaaefa79c",
+        "InstanceType": "t2.nano",
+        "State": "stopped",
+        "PrivateIP": "172.31.11.194",
+        "PublicIP": null,
+        "AvailabilityZone": "ap-south-1b"
+    }
+]
